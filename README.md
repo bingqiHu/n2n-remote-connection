@@ -26,7 +26,7 @@ mkdir build
 cd build
 cmake ..
 make
-
+'''
 
 注：自己解决依赖包的安装问题
 
